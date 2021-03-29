@@ -1,0 +1,7 @@
+﻿  ADTMatrix.cpp
+  main.cpp
+C:\UBB\Sem2\DSA\Project\DSA_Project\main.cpp(9,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : see previous definition of 'INFINITY'
+  tests.cpp
+  Generating Code...
+  DSA_Project.vcxproj -> C:\UBB\Sem2\DSA\Project\DSA_Project\x64\Debug\data-structure-project.exe

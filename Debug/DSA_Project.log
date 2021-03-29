@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (DSA_Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\UBB\Sem2\DSA\Project\data-structure-project\main.cpp(9,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : see previous definition of 'INFINITY'
+  DSA_Project.vcxproj -> C:\UBB\Sem2\DSA\Project\data-structure-project\Debug\data-structure-project.exe

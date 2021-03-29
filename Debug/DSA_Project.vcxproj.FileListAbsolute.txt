@@ -1,0 +1,4 @@
+C:\UBB\Sem2\DSA\Project\DSA_Project\Debug\DSA_Project.exe
+C:\UBB\Sem2\DSA\Project\DSA_Project\Debug\DSA_Project.pdb
+C:\UBB\Sem2\DSA\Project\data-structure-project\Debug\data-structure-project.exe
+C:\UBB\Sem2\DSA\Project\data-structure-project\Debug\data-structure-project.pdb
