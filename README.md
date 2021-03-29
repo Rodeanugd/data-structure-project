@@ -2,7 +2,7 @@
 
  The following project is an implementation of the Matrix Abstract Data Type onto a Doubly Linked List.
  
- To illustrate how it performs, I used it to solve a simple problem: getting the shortest path between two cities in a country, where the roads between cities and their lengths  # were represented using a graph. 
+ To illustrate how it performs, I used it to solve a simple problem: getting the shortest path between two cities in a country, where the roads between cities and their lengths were represented using a graph. 
  
  It solves the problem using a simple dijkstra-like algorithm (in O(n^2) complexity).
  
